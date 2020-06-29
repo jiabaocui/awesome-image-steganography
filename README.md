@@ -58,6 +58,22 @@ Automatic Steganographic Distortion Learning Using a Generative Adversarial Netw
 # Image
 Hiding secret information is image.
 
+Reversible image steganography scheme based on a U-net structure
+
+SteganoGAN: High Capacity Image Steganography with GANs
+
+EncryptGAN: Image Steganography with Domain Transform
+
+End-to-end trained CNN encoder-decoder networks for image steganography
+
+StegNet: Mega Image steganography capacity with deep convolutional network
+
+HiDDeN: Hiding Data With Deep Networks
+
+Hiding images in plain sight: Deep steganography
+
+A Secure and High Capacity Image Steganography Technique
+
 # Audio
 Hiding secret information is audio.
 

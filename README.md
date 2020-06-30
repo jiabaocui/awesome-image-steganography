@@ -39,6 +39,10 @@ Information Hiding Techniques: A Tutorial Review
 # Message
 Hiding secret information is message/string.
 
+SteganoGAN: High Capacity Image Steganography with GANs
+
+HiDDeN: Hiding Data With Deep Networks
+
 A New Payload Partition Strategy in Color Image Steganography
 
 Natural Steganography in JPEG Domain with a Linear Development Pipeline
@@ -60,15 +64,11 @@ Hiding secret information is image.
 
 Reversible image steganography scheme based on a U-net structure
 
-SteganoGAN: High Capacity Image Steganography with GANs
-
 EncryptGAN: Image Steganography with Domain Transform
 
 End-to-end trained CNN encoder-decoder networks for image steganography
 
 StegNet: Mega Image steganography capacity with deep convolutional network
-
-HiDDeN: Hiding Data With Deep Networks
 
 Hiding images in plain sight: Deep steganography
 

@@ -39,50 +39,56 @@ Information Hiding Techniques: A Tutorial Review
 # Message
 Hiding secret information is message/string.
 
-SteganoGAN: High Capacity Image Steganography with GANs
+SteganoGAN: High Capacity Image Steganography with GANs [[paper]](https://arxiv.org/pdf/1901.03892.pdf) [[code]](https://github.com/DAI-Lab/SteganoGAN)
 
-HiDDeN: Hiding Data With Deep Networks
+HiDDeN: Hiding Data With Deep Networks [[paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Jiren_Zhu_HiDDeN_Hiding_Data_ECCV_2018_paper.pdf)
 
-A New Payload Partition Strategy in Color Image Steganography
+A New Payload Partition Strategy in Color Image Steganography [[paper]](https://ieeexplore.ieee.org/document/8630656)
 
 Natural Steganography in JPEG Domain with a Linear Development Pipeline
 
-Towards Robust Image Steganography
+Towards Robust Image Steganography [[paper]](https://ieeexplore.ieee.org/document/8533349)
 
 A security steganography scheme based on HDR image
+
+Steganographic Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1703.05502)
+
+SSGAN- Secure Steganography Based on Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1707.01613)
 
 A novel image steganography method via deep convolutional generative adversarial networks
 
 Spatial Image Steganography Based on Generative Adversarial Network
 
-Generating steganographic images via adversarial training
+Generating steganographic images via adversarial training [[paper]](https://papers.nips.cc/paper/6791-generating-steganographic-images-via-adversarial-training.pdf) [[code]](https://github.com/jhayes14/advsteg)
 
 Automatic Steganographic Distortion Learning Using a Generative Adversarial Network
 
 # Image
 Hiding secret information is image.
 
-Reversible image steganography scheme based on a U-net structure
+Reversible image steganography scheme based on a U-net structure [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8604041)
 
-EncryptGAN: Image Steganography with Domain Transform
+EncryptGAN: Image Steganography with Domain Transform [[paper]](https://arxiv.org/abs/1905.11582)
 
-End-to-end trained CNN encoder-decoder networks for image steganography
+End-to-end trained CNN encoder-decoder networks for image steganography [[paper]](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11132/Rehman_End-to-End_Trained_CNN_Encoder-Decoder_Networks_For_Image_Steganography_ECCVW_2018_paper.pdf)
 
-StegNet: Mega Image steganography capacity with deep convolutional network
+StegNet: Mega Image steganography capacity with deep convolutional network [[paper]](https://arxiv.org/abs/1806.06357)
 
-Hiding images in plain sight: Deep steganography
+Hiding images in plain sight: Deep steganography [[paper]](https://papers.nips.cc/paper/6802-hiding-images-in-plain-sight-deep-steganography)
 
 A Secure and High Capacity Image Steganography Technique
 
 # Audio
 Hiding secret information is audio.
 
-Audio Steganography Based on Iterative Adversarial Attacks against Convolutional Neural Networks (**TIFS2020**) [paper](https://ieeexplore.ieee.org/document/8949445)
+Audio Steganography Based on Iterative Adversarial Attacks against Convolutional Neural Networks (**TIFS2020**) [[paper]](https://ieeexplore.ieee.org/document/8949445)
 
 An end-to-end generative network for environmental sound-based covert communication [[paper]](https://dl.acm.org/doi/10.1007/s11042-018-6592-2)
 
 # Video
 Hiding secret information is video.
+
+High-Capacity Convolutional Video Steganography with Temporal Residual Modeling
 
 Convolutional video steganography with temporal residual modeling [[paper]](https://arxiv.org/abs/1806.02941)
 
@@ -92,4 +98,3 @@ If you have any suggestions or download problems about papers, please don't hesi
 
 - [e-mail](jbcui@zju.edu.cn)
 - [pull](https://github.com/amusi/awesome-lane-detection/pulls)
-
